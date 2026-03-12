@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (student_marks2)">9c6b31c68327f2101df4fb96feaad3f3</button>
+        <item_parameter display_value="student_marks2 sys_id">9c6b31c68327f2101df4fb96feaad3f1</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-12 06:47:48</sys_created_on>
+        <sys_id>586b31c68327f2101df4fb96feaad3f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9c6b31c68327f2101df4fb96feaad3f1</sys_name>
+        <sys_package display_value="Source_control_app" source="53fabd8e83e3f2101df4fb96feaad31f">53fabd8e83e3f2101df4fb96feaad31f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Source_control_app">53fabd8e83e3f2101df4fb96feaad31f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_586b31c68327f2101df4fb96feaad3f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-12 06:47:48</sys_updated_on>
+        <ui_parameter display_value="Sys ID">146b31c68327f2101df4fb96feaad3f4</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
